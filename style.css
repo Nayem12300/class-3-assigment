@@ -1,0 +1,163 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	width: 100%;
+	background-image: url(img/bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #fff;
+	padding: 50px 0px;
+}
+
+.btn-1 a {
+	text-decoration: none;
+	background: #EB1E57;
+	color: #fff;
+	padding: 15px 60px;
+	border-radius: 10px;
+	font-size: 20px;
+}
+
+.btn-1 {
+	margin: 35px 0px;
+}
+
+.container {
+	width: 1000px;
+	margin-top: auto;
+}
+
+.btn-2 {
+	margin: 35px 0px;
+}
+
+.btn-2 a {
+	text-decoration: none;
+	background: transparent;
+	border: 1px solid #ddd;
+	color: #fff;
+	padding: 15px 60px;
+	border-radius: 10px;
+	font-size: 20px;
+}
+
+.part-1 {
+	width: 30%;
+	margin-left: 150px;
+	float: left;
+	margin-top: 80px;
+}
+
+.part-1 h1 {
+	font-size: 50px;
+}
+
+.part-1 p {
+	font-size: 18px;
+}
+
+.part-2 img {
+	max-width: 100%;
+	width: 270px;
+	margin-left: auto;
+	display: block;
+}
+
+.text-area {
+	text-align: center;
+	width: 700px;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+
+.text-area h2 {
+	margin-top: 10px;
+}
+
+.text-area p {
+	margin-top: 40px;
+}
+
+.content-2 {
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	margin-top: 130px;
+	overflow: hidden;
+}
+
+.content-2 span {
+	color: #EB1E57;
+}
+
+.fast-content {
+	width: 30%;
+	float: left;
+	margin-left: 180px;
+}
+
+.fast-content a {
+	background: #EB1E57;
+	padding: 10px 60px;
+	color: #fff;
+	border-radius: 5px;
+	text-decoration: none;
+}
+
+.box {
+	width: 2px;
+	height: 320px;
+	background: #EB1E57;
+	float: left;
+	margin-left: 80px;
+}
+
+.last-content {
+	width: 30%;
+	float: left;
+	margin-left: 100px;
+}
+
+
+.last-content a {
+	background: #EB1E57;
+	padding: 10px 60px;
+	color: #fff;
+	border-radius: 5px;
+	text-decoration: none;
+}
+
+
+.footer {
+	width: 100%;
+	background-image: url(img/f.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #fff;
+	background-color: #4d7171;
+	padding: 50px 0px;
+	background-blend-mode: exclusion;
+	margin-top: 50px;
+}
+
+.footer-text {
+	width: 50%;
+	margin-left: 80px;
+}
+
+.footer-text p {
+	font-size: 19px;
+}
+
+.footer-text a {
+	background: #33339b;
+	padding: 10px 60px;
+	color: #fff;
+	border-radius: 5px;
+	text-decoration: none;
+}
